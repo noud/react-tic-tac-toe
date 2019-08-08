@@ -2,6 +2,8 @@
 
 ![tic-tac-toe React](./doc/tic-tac-toe-react.png?raw=true "tic-tac-toe React")
 
+This project is the React [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
